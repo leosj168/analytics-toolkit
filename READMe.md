@@ -1,4 +1,4 @@
-# Coupon Acceptance Analysis (Bar & Coffee House) v2
+# Coupon Acceptance Analysis (Bar & Coffee House)
 
 ## Author
 **Leo Lin**  
